@@ -1,0 +1,4 @@
+The links to features extracted from SwinUnetR 
+Tumor alone: https://drive.google.com/file/d/155OgYfwV02rjW80QKi6OP52-SNIXgnlk/view?usp=drive_link
+Tumor+5mm dilation: https://drive.google.com/file/d/1SpLPRrI9D1JdYRs4XAhpUhh97Y8NE35k/view?usp=drive_link
+Tumor+1cm dilation: https://drive.google.com/file/d/1pzo4LYqeLA4GUrwPGS3HH5IntMID7nVH/view?usp=drive_link
